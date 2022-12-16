@@ -1,0 +1,59 @@
+.container {
+  width: 100%;
+  max-width: 1240px;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+
+.Big-text {
+  margin: 60px 0 60px 0;
+  color: rgb(32, 35, 41);
+  border: none;
+  text-align: center;
+  font-weight: 900;
+  z-index: 1;
+  font-size: 5.625rem;
+}
+
+.Colors {
+  background: rgb(32, 35, 41);
+}
+.lists {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  padding-top: 30px;
+  list-style: none;
+}
+
+.items {
+  display: flex;
+  width: 540px !important;
+  background: rgb(60, 62, 68);
+  margin-right: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+.site-Img {
+  width: 130px;
+  height: 130px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+.boxs {
+  margin-left: 40px;
+}
+.names {
+  font-family: Arial, Helvetica, sans-serif;
+
+  color: #fff;
+}
+.location-title {
+  color: rgb(158, 158, 158);
+}
+.location-Hreft {
+  text-decoration: none;
+  color: rgb(245, 245, 245);
+}
